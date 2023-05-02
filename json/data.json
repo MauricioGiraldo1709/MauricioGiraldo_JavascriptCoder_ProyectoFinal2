@@ -1,0 +1,22 @@
+[
+    {"pais": "Perú", "provincia":"Lima","precio": 150},
+    {"pais": "Perú", "provincia":"Huancayo","precio": 90},
+    {"pais": "Perú", "provincia":"Cuzco","precio": 100},
+    {"pais": "Perú", "provincia":"Arequipa","precio": 95},
+    {"pais": "Argentina", "provincia":"Buenos Aires", "precio": 550},
+    {"pais": "Argentina", "provincia":"Mar del Plata", "precio": 450},
+    {"pais": "Argentina", "provincia":"Córdoba", "precio": 400},
+    {"pais": "Argentina", "provincia":"Rosario", "precio": 350},
+    {"pais": "España", "provincia":"Madrid", "precio": 800},
+    {"pais": "España", "provincia":"Barcelona", "precio": 750},
+    {"pais": "España", "provincia":"Valencia", "precio": 700},
+    {"pais": "España", "provincia":"Málaga", "precio": 750},
+    {"pais": "México", "provincia":"Ciudad de México", "precio": 700},
+    {"pais": "México", "provincia":"Guadalajara", "precio": 600},
+    {"pais": "México", "provincia":"Monterrey", "precio": 650},
+    {"pais": "México", "provincia":"Cancún", "precio": 800},
+    {"pais": "Brasil", "provincia":"Brasilia", "precio": 450},
+    {"pais": "Brasil", "provincia":"Sao Paulo", "precio": 550},
+    {"pais": "Brasil", "provincia":"Rio de Janeiro", "precio": 600},
+    {"pais": "Brasil", "provincia":"Porto Alegre", "precio": 390}
+]
